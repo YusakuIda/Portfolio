@@ -26,7 +26,7 @@ path = os.path.join(DIR, CATEGORIE)
 i=0
 c=1
 x=np.zeros((12,9))
- # モデルを再現
+ # 学習済みのモデル'saved_model/my_model1024.h5'を再現
 new_model = tf.keras.models.load_model('saved_model/my_model1024.h5')
 
 #sheet = dataon.on()

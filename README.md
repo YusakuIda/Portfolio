@@ -2,7 +2,7 @@
 
 feedback_statistics.png  
   制作物のフィードバックです。group2が私たちの班です。（順位は記述されていません）  
-explanation.pptx  
+説明資料.pptx  
   制作物の説明資料  
 InputAndScoring.py 
   私が実装を担当した、任意の時間間隔でカメラから画像を取得し、学習済みのモデルに通して集中度スコアを計算するプログラムです。  
